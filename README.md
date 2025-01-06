@@ -2,7 +2,7 @@
 
 -👽I'm taking a technical system development course
 <br>-💻contact-me: igoralbieri04@gmail.com
-<br>-🎇studying css, html, js, SQL, PhP
+<br>-🎇studying css, html, js, SQL, PhP, Java, JavaScript
 <br>-🏳Made in Brasil
 
 <div style="display: inline_block"><br>
